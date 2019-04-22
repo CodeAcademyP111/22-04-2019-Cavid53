@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+body{
+    
+    background:blanchedalmond;
+    background-image: url("snow.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+}
+
+h1{
+    font-family:'Gloria Hallelujah', cursive;
+    text-align: center ;
+    font-size:  40px;
+    color:blue;
+    
+
+}
+.orta{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+    color:red;
+}
+.asagi{
+    font-family:'Gloria Hallelujah', cursive;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    color: blue;
+}
+.umumi{
+    margin-top: 15%;
+    
+}
